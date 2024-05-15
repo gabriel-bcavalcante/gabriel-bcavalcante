@@ -8,7 +8,9 @@
  
 <br>
 
-    ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-bcavalcante&show_icons=true&theme=radical)
+<div>
+      ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-bcavalcante&show_icons=true&theme=radical)
+</div>
 
 
 ### Minhas Redes Sociais:

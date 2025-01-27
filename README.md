@@ -1,8 +1,8 @@
-# 👨‍💻 Gabriel Barbosa 
+# 👨‍💻 Gabriel Cavalcante 
 
 **Análise e Desenvolvimento de Sistemas** 
 
-Me chamo <b>Gabriel Barbosa</b>, tenho 23 anos e sou natural de São Paulo. Estou no 5°semestre do curso de Analise e Desenvolvimento de Sistemas e estou me aprimorando buscando aprender diversas tecnologias, tenho conhecimento sobre algumas como: HTML, CSS, JavaScript, React, Git+Github, Banco de dados com MySQL e Pacote Office. Mais informações sobre mim no meu "[Linkedin](www.linkedin.com/in/gabriel-barbosa-cavalcante)".
+Me chamo <b>Gabriel Cavalcante</b>, tenho 23 anos e sou natural de São Paulo. Estou no 5°semestre do curso de Analise e Desenvolvimento de Sistemas e estou me aprimorando buscando aprender diversas tecnologias, tenho conhecimento sobre algumas como: HTML, CSS, JavaScript, React, Git+Github, Banco de dados com MySQL e Pacote Office. Mais informações sobre mim no meu "[Linkedin](www.linkedin.com/in/gabriel-barbosa-cavalcante)".
 
 ### 🤖 Linguagens e Tecnologias 
 

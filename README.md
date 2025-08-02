@@ -2,7 +2,7 @@
 
 **Análise e Desenvolvimento de Sistemas** 
 
-Me chamo <b>Gabriel Barbosa Cavalcante</b>, tenho 24 anos e sou natural de São Paulo. Conclui recentemente o curso de Analise e Desenvolvimento de Sistemas e estou me aprimorando buscando aprender diversas tecnologias, tenho conhecimento sobre algumas como: HTML, CSS, JavaScript, Python, React, Git, Github, Banco de dados com MySQL e Pacote Office.
+Me chamo <b>Gabriel Barbosa Cavalcante</b>, tenho 24 anos e sou natural de São Paulo. Conclui recentemente o curso de <b>Analise e Desenvolvimento de Sistemas</b> e estou me aprimorando buscando aprender diversas tecnologias, tenho conhecimento sobre algumas como: <b>HTML, CSS, JavaScript, Python, React, Git, Github e Banco de dados com MySQL.</b>
 ### 🤖 Linguagens e Tecnologias 
 
 <div>
